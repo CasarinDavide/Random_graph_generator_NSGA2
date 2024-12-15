@@ -29,6 +29,7 @@ The project includes a real-world example:
 
 Simulating a brain neural network for pain modeling.
 The generated graph structures can mimic connections observed in neural systems, offering potential insights into pain-related pathways.
+<br />
 **Key Components** <br />
 Graph Generation: Erdős–Rényi random graph initialization.
 Fitness Evaluation: Ensures compliance with statistical constraints.
