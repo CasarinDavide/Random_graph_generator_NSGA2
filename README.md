@@ -14,13 +14,13 @@ The main objective is to construct a neural network graph that simulates a speci
 Initial Population Creation
 
 The initial graph population is generated using the Erdős–Rényi algorithm, which produces random graphs by connecting nodes with a given probability.
-A fitness function is defined to evaluate how well each graph respects the provided constraints.
+A fitness function is defined to evaluate how well each graph respects the provided constraints. <br />
 **Optimization via NSGA-II** <br />
 
 The standard NSGA-II framework is applied to optimize the graph structure.
 A specialized crossover mechanism is implemented, inspired by evolutionary neural networks.
 This involves performing connections crossover across graphs with different structures.
-Mutation and selection operators are used to maintain diversity and guide the population toward convergence.
+Mutation and selection operators are used to maintain diversity and guide the population toward convergence. <br />
 **Termination** <br />
 
 The algorithm ends when convergence criteria are met, producing graphs that satisfy the desired statistical properties.
