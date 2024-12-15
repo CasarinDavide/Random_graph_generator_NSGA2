@@ -32,7 +32,7 @@ Simulating a brain neural network for pain modeling.
 The generated graph structures can mimic connections observed in neural systems, offering potential insights into pain-related pathways.
 <br />
 **Key Components** <br />
-Graph Generation: Erdős–Rényi random graph initialization.
-Fitness Evaluation: Ensures compliance with statistical constraints.
-NSGA-II Optimization: Multi-objective optimization to improve the graph population.
-Crossover and Mutation: Evolutionary techniques for neural network-like graph structures.
+- Graph Generation: Erdős–Rényi random graph initialization.
+- Fitness Evaluation: Ensures compliance with statistical constraints.
+- NSGA-II Optimization: Multi-objective optimization to improve the graph population.
+- Crossover and Mutation: Evolutionary techniques for neural network-like graph structures.
