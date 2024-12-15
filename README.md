@@ -1,5 +1,5 @@
 ## Generating a Random Graph Using Multi-Objective Optimization ##
-** Overview **
+**Overview**
 This project aims to generate a neural network graph that adheres to predefined constraints, such as:
 - Number of nodes
 - Connection type rate mean
